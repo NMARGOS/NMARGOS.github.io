@@ -1,4 +1,5 @@
 # Account Manager @ Verlabs
+##### [LinkedIn Profile](https://www.linkedin.com/in/nikolasmargos/)
 
 ### Technical Skills
 
