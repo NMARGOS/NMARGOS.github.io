@@ -15,14 +15,13 @@
 ### Projects 
 
 - [Listing Classifcation](https://github.com/NMARGOS/ListingClassification)
-Creating a supervised learning diagnostic for classifying Berlin AirBnb listings likely to get top 5% rating
+- Creating a supervised learning diagnostic for classifying Berlin AirBnb listings likely to get top 5% rating
 
 - [Movie Segmentation](https://github.com/NMARGOS/UnsupervisedMovieSegmentation)
-Detecting ideal clusters from imdb's movie dataset to segment using unsupervised learning
+- Detecting ideal clusters from imdb's movie dataset to segment using unsupervised learning
 
 - [House Prices Prediction](https://github.com/NMARGOS/HousePricePrediction)
-
-Kaggle Submission -Using XGBRegressor with shap, grid search and hyperopt to predict house prices
+- Kaggle Submission, using XGBRegressor with shap, grid search and hyperopt to predict house prices
 
 
 ### Education
