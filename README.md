@@ -2,6 +2,7 @@
 
 ### Technical Skills
 SQL (PostgreSQL) & NoSQL (MongoDB - pymongo)
+</br>
 Data Cleaning, Data Analysis, EDA, Data Visualization with Python (numpy , pandas , matplotlib ,seaborn , dash)
 Machine Learning (Deep learning, Regression algorithms, classification algorithms, scikit-learn , keras, tensorflow)
 Tableau Desktop Specialist certified
@@ -14,12 +15,12 @@ Market Basket Analysis (arules)
 ### Projects 
 - [Listing Classifcation](https://github.com/NMARGOS/ListingClassification)
 Creating a supervised learning diagnostic for classifying Berlin AirBnb listings likely to get top 5% rating
-<br></br>
+
 - [Movie Segmentation](https://github.com/NMARGOS/UnsupervisedMovieSegmentation)
 Detecting ideal clusters from imdb's movie dataset to segment using unsupervised learning
-<br></br>
+
 - [House Prices Prediction](https://github.com/NMARGOS/HousePricePrediction)
-<br></br>
+
 Kaggle Submission -Using XGBRegressor with shap, grid search and hyperopt to predict house prices
 
 
